@@ -74,8 +74,7 @@ Passionate software engineering student with expertise spanning from silicon-lev
 ![GitHub Streak](https://streak-stats.demolab.com?user=AzizMejbri&theme=dark&hide_border=true)
 
 ### 📈 GitHub Stats
-![Aziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzizMejbri&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
-![My GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AzizMejbri&theme=dark)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AzizMejbri&theme=dark)
 
 ### 💻 Most Used Languages
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AzizMejbri&theme=dark)
