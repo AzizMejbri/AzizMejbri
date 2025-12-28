@@ -55,6 +55,7 @@ Passionate software engineering student with expertise spanning from silicon-lev
   <img src="https://img.shields.io/badge/F%23-378BBA?style=flat&logo=fsharp&logoColor=white" alt="F#" />
   <img src="https://img.shields.io/badge/D-CC342D?style=flat&logo=d&logoColor=white" alt="D" />
   <img src="https://img.shields.io/badge/C3-000000?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIGZpbGw9IiMwMDAwMDAiLz48dGV4dCB4PSI1MCIgeT0iMTYiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxMiIgZmlsbD0id2hpdGUiPkMzPC90ZXh0Pjwvc3ZnPg==&logoColor=white" alt="C3" />
+
 </span>
 
 ### **Infrastructure & Platforms**
@@ -68,14 +69,16 @@ Passionate software engineering student with expertise spanning from silicon-lev
 
 ## 📊 GitHub Analytics
 
+
 ### 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=AzizMejbri&theme=dark&hide_border=true)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=AzizMejbri&theme=dark&hide_border=true)
 
 ### 📈 GitHub Stats
-[![Aziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzizMejbri&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_border=true)](https://github.com/AzizMejbri)
+![Aziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzizMejbri&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)
+![My GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AzizMejbri&theme=dark)
 
 ### 💻 Most Used Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AzizMejbri&layout=compact&theme=dark&hide_border=true&langs_count=8)](https://github.com/AzizMejbri)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AzizMejbri&theme=dark)
 
 ## 🏗️ Infrastructure & DevOps Mastery
 
