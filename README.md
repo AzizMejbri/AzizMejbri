@@ -1,22 +1,22 @@
-# 🚀 Aziz Mejbri - Software Engineering Student
+# Aziz Mejbri - Software Engineering Student
 
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
 [![NixOS](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=fff)](#)
 [![Void Linux](https://img.shields.io/badge/Void%20Linux-478061?logo=voidlinux&logoColor=fff)](#)
 [![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](#)
 
-## 👨‍💻 Professional Profile
+## Professional Profile
 
 Passionate software engineering student with expertise spanning from silicon-level architecture to cloud-scale distributed systems. I specialize in building high-performance, efficient, and robust software infrastructure with a focus on virtualization, compilers, and hardware-aware optimization.
 
-### 🔥 Core Technical Expertise
+### Core Technical Expertise
 - **Systems Programming & Virtualization** - VM/container runtimes, hypervisors, system-level optimization
 - **Compiler Architecture & Toolchains** - Language design, optimization passes, static analysis
 - **Cloud Computing & Distributed Systems** - Scalable architectures, microservices, orchestration
 - **Computer Architecture** - Performance optimization, memory hierarchies, parallel computing
 - **Binary Analysis & Reverse Engineering** - Executable formats, debugging tools, security analysis
 
-## 🛠️ Technical Stack
+## Technical Stack
 
 ### **Primary Languages (Expert-Level)**
 
@@ -67,19 +67,19 @@ Passionate software engineering student with expertise spanning from silicon-lev
   <img src="https://img.shields.io/badge/Databases-4479A1?style=flat&logo=postgresql&logoColor=white" alt="Databases" />
 </span>
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 
-### 🔥 GitHub Streak
+### GitHub Streak
 ![GitHub Streak](https://streak-stats.demolab.com?user=AzizMejbri&theme=dark&hide_border=true)
 
-### 📈 GitHub Stats
+### GitHub Stats
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AzizMejbri&theme=dark)
 
-### 💻 Most Used Languages
+### Most Used Languages
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AzizMejbri&theme=dark)
 
-## 🏗️ Infrastructure & DevOps Mastery
+## Infrastructure & DevOps Mastery
 
 ### **Linux Ecosystem Expertise**
 - **Daily Driver**: Arch Linux with separate NixOS partition for declarative configuration
@@ -94,7 +94,7 @@ Building enterprise-grade home infrastructure:
 - **Service Orchestration**: Containerized services, load balancing, monitoring solutions
 - **Infrastructure as Code**: Reproducible deployments, automated provisioning, backup strategies
 
-## 🎯 Professional Value Proposition
+## Professional Value Proposition
 
 I bridge the critical gap between **hardware understanding** and **software excellence**, delivering:
 
@@ -106,19 +106,19 @@ I bridge the critical gap between **hardware understanding** and **software exce
 | **Toolchain Development** | Compilers, debuggers, analysis tools | Improved developer productivity and code quality |
 | **Security Mindset** | Secure coding, system hardening | Vulnerability reduction and compliance adherence |
 
-## 📬 Connect & Collaborate
+## Connect & Collaborate
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aziz-mejbri-40ab59396)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/za_zyzz/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aziz.mejbri.321@gmail.com)
 
-## 🚀 Current Focus & Projects
+## Current Focus & Projects
 
-- 🔭 **High-Performance Systems**: Developing low-latency networking stacks and optimized runtime environments
-- 🌱 **Compiler Research**: Exploring novel optimization techniques and JIT compilation strategies
-- 🤝 **Open Source Contributions**: Actively contributing to systems programming projects
-- 🏠 **Infrastructure Scaling**: Expanding home lab with Kubernetes orchestration and service mesh
-- 📚 **Continuous Learning**: Advanced distributed systems, formal verification, and hardware acceleration
+- **High-Performance Systems**: Developing low-latency networking stacks and optimized runtime environments
+- **Compiler Research**: Exploring novel optimization techniques and JIT compilation strategies
+- **Open Source Contributions**: Actively contributing to systems programming projects
+- **Infrastructure Scaling**: Expanding home lab with Kubernetes orchestration and service mesh
+- **Continuous Learning**: Advanced distributed systems, formal verification, and hardware acceleration
 
 ---
 
