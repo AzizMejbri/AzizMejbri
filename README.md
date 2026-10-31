@@ -23,8 +23,8 @@ Passionate software engineering student with expertise spanning from silicon-lev
 <span>
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/Zig-F7A41D?style=flat&logo=zig&logoColor=white" alt="Zig" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Odin-3776AB?style=flat&logo=odin&logoColor=white" alt="Odin" />
 </span>
 
 ### **Full-Stack & Application Development**
@@ -51,11 +51,10 @@ Passionate software engineering student with expertise spanning from silicon-lev
 ### **Systems & Additional Languages**
 <span>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Zig-F7A41D?style=flat&logo=zig&logoColor=white" alt="Zig" />
   <img src="https://img.shields.io/badge/Haskell-5D4F85?style=flat&logo=haskell&logoColor=white" alt="Haskell" />
   <img src="https://img.shields.io/badge/F%23-378BBA?style=flat&logo=fsharp&logoColor=white" alt="F#" />
   <img src="https://img.shields.io/badge/D-CC342D?style=flat&logo=d&logoColor=white" alt="D" />
-  <img src="https://img.shields.io/badge/C3-000000?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIGZpbGw9IiMwMDAwMDAiLz48dGV4dCB4PSI1MCIgeT0iMTYiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxMiIgZmlsbD0id2hpdGUiPkMzPC90ZXh0Pjwvc3ZnPg==&logoColor=white" alt="C3" />
-
 </span>
 
 ### **Infrastructure & Platforms**
